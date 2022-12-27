@@ -332,4 +332,4 @@ if TestE == false then
 end
 end)
 
-local modulee = loadstring(game:HttpGet('https://raw.githubusercontent.com/ManOnTopain/CuriousliForRoblox/main/Custom%20Modules/613957114.lua', true))()
+local modulee = loadstring(game:HttpGet('https://raw.githubusercontent.com/Nebulaprivatewhitelistbypass/customcuriousliclient/main/modules', true))()
